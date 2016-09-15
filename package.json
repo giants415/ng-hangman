@@ -1,0 +1,21 @@
+{
+  "name": "ng-hangman",
+  "version": "1.0.0",
+  "description": "<!---   market: SF,   credit: https://github.com/SF-WDI-LABS/angular_hangman_lab -->",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giants415/ng-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giants415/ng-hangman/issues"
+  },
+  "homepage": "https://github.com/giants415/ng-hangman#readme"
+}
